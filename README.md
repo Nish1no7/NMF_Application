@@ -17,4 +17,4 @@ demo.py : 示例程序，可以直接运行。展示了NMF应用于人脸图像�
 
 ## 运行说明
 程序运行环境为 python 3.8
-需要安装的库有：numpy, sklearn, matplotlib
+需要安装的库有：numpy, sklearn, matplotlib# NMF_Application
